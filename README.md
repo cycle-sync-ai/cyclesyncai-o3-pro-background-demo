@@ -36,7 +36,7 @@ This application addresses the limitation of ChatGPT Pro's ~5k token output limi
 
 ```bash
 git clone <repository-url>
-cd long-response-ai
+cd cyclesyncai-o3-pro-background-demo
 ```
 
 2. Install required dependencies:
@@ -138,7 +138,7 @@ The app provides detailed error messages including:
 ## File Structure
 
 ```
-long-response-ai/
+cyclesyncai-o3-pro-background-demo/
 ├── app.py              # Main Streamlit application
 ├── README.md           # This file
 └── .streamlit/
